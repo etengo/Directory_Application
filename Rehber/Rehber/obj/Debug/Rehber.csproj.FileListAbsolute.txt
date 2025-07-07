@@ -1,0 +1,10 @@
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\bin\Debug\Rehber.exe.config
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\bin\Debug\Rehber.exe
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\bin\Debug\Rehber.pdb
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.exe
+C:\ENES\KURS\UDEMY - C#\Rehber\Rehber\obj\Debug\Rehber.pdb

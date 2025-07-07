@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ENES\\KURS\\UDEMY - C#\\Rehber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D5475E-94E2-4257-892E-BD09016B7FC8}|Rehber\\Rehber.csproj|c:\\enes\\kurs\\udemy - c#\\rehber\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D5475E-94E2-4257-892E-BD09016B7FC8}|Rehber\\Rehber.csproj|solutionrelative:rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D5475E-94E2-4257-892E-BD09016B7FC8}|Rehber\\Rehber.csproj|C:\\ENES\\KURS\\UDEMY - C#\\Rehber\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D5475E-94E2-4257-892E-BD09016B7FC8}|Rehber\\Rehber.csproj|solutionrelative:rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\ENES\\KURS\\UDEMY - C#\\Rehber\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Rehber\\Form1.cs",
+              "ToolTip": "C:\\ENES\\KURS\\UDEMY - C#\\Rehber\\Rehber\\Form1.cs",
+              "RelativeToolTip": "Rehber\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwD0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:51:59.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\ENES\\KURS\\UDEMY - C#\\Rehber\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Rehber\\Form1.cs",
+              "ToolTip": "C:\\ENES\\KURS\\UDEMY - C#\\Rehber\\Rehber\\Form1.cs [Design]",
+              "RelativeToolTip": "Rehber\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:37:49.936Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
